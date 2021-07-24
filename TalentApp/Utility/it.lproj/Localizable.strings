@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  TalentApp
+
+  Created by Emanuele Villani on 01/05/2021.
+  
+*/
+
+
+"PROFILE" = "Profilo";
+
+
+"CARICAREITEM" = "Caricare";
+
+
+"SFIDA" = "Sfida";
+
+
+"MYPROFILE" = "MIo Profilo";
+
+
+"TXTFIELDPHOTO" = "Aggiungi qui la tua didascalia...";
+
+
+"POSTIMMAG" = "Pubblica immagine";
+
+
+"POSTIMMAGDTBASE" = "Posta Immagine in DataBase";
+
+
+"DESCR_APP_TALENT" = "Talent è l'app numero 1 per pubblicare foto del tuo talento e condividerle in tutto il mondo. Siamo una community amante del talento e siamo felici di averti!";
+
+// EDIT SETTINGVIEW
+"EDIT_DISP_NAM_TXTFIE" = "Nome visualizzato corrente";
+
+"EDIT_DISP_NOM" = "Display nome";
+
+"EDIT_DESCR_MOD" = "Puoi modificare il tuo nome visualizzato qui. Questo sarà visto da altri utenti sul tuo profilo e sui tuoi post!";
+
+"PLACEHOLDER" = "Il tuo nome visualizzato qui";
+
+// EDIT SETTINGVIEW BIO
+
+"SCR_BIO" = "Biografia attuale qui";
+"BIOPROF" = "Biografia profilo";
+"DESC_PROF" = "La tua biografia è un ottimo posto per far conoscere agli altri utenti un po 'di te. Verrà mostrato solo sul tuo profilo. ";
+
+"PLACEHOL_BIO" = "La tua biografia qui ...";
+
+"DISCONN" = "Disconnessione";
+
+"TERM&COND" = "Termini & Condizioni";
+
+"FOOTER" = "Il talento è stato creato con amore. \ N Tutti i diritti riservati \ n Cool Apps Inc. \ n Copyright 2021 ❤️";
+
+
+// EDITSETTINGTEXTVIEW
+"SALV" = "salva";
+"MOD_NOME" = "Modifica il nome";
+
+"DESCR" = "Questa è una descrizione";
+
+"SEGN_POST_PROV" = "Segnaposto di prova";

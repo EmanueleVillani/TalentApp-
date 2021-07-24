@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  TalentApp
+
+  Created by Emanuele Villani on 01/05/2021.
+  
+*/
+
+
+
+"PROFILE" = "Profile";
+"CARICAREITEM" = "Upload";
+"SFIDA" = "challenges";
+"MYPROFILE" = "My Profile";
+"TXTFIELDPHOTO" = "Add your caption here....";
+"POSTIMMAG" = "Post Picture";
+"POSTIMMAGDTBASE" = "Post Picture DB";
+"DESCR_APP_TALENT" = "Talent is the #1 app for posting picture of your talent and sharing them across the world. We are a talent- loving community and we're happy to have you!";
+
+
+// EDIT SETTINGVIEW
+"EDIT_DISP_NAM_TXTFIE" = "Current display name";
+"EDIT_DISP_NOM" = "Display name";
+
+"EDIT_DESCR_MOD" = "You can edit your display name here. This will be seen by other users on your profile and on your posts!";
+
+"PLACEHOLDER" = "Your display name here";
+
+// EDIT SETTINGVIEW BIO
+
+"SCR_BIO" = "Current Bio here";
+
+"BIOPROF" = "Bio profile";
+
+"DESC_PROF" = "Your bio is a great place to let other users know a little about you. It will be shown on your profile only . ";
+
+"PLACEHOL_BIO" = "Your bio here...";
+
+"DISCONN" = "Sign out";
+
+"TERM&COND" = "Terms & Conditions";
+
+"FOOTER" = "Talent was made whit love. \n All Rights Reserved \n Cool Apps Inc. \n Copyright 2021 ❤️";
+
+"SALV" = "save";
+
+// EDITSETTINGTEXTVIEW
+"MOD_NOME" = "Edit Display Nam";
+"DESCR" = "This is a description";
+"SEGN_POST_PROV" = "Test Placeholder";
+
+
+
+
+
+
