@@ -62,7 +62,7 @@ struct Comments: View {
         print("GET COMMENDS FROM DATABASE")
         
         let comment1 = CommentModel(commentID: "", userID: "", username: "Emanuele Villani", content: "THIS IS FIRST COMMENT", dateCreared: Date())
-        let comment2 = CommentModel(commentID: "", userID: "", username: "Carlo Mastroiani", content: "THIS IS SECOND COMMENT", dateCreared: Date())
+        let comment2 = CommentModel(commentID: "", userID: "", username: "Simon Le Bon", content: "THIS IS SECOND COMMENT", dateCreared: Date())
         let comment3 = CommentModel(commentID: "", userID: "", username: "Iron Man", content: "THIS IS THIRD COMMENT", dateCreared: Date())
         
         self.commentArray.append(comment1)

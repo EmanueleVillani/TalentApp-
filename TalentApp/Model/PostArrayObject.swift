@@ -18,11 +18,11 @@ class PostArrayObject: ObservableObject {
         
         let post1 = PostModel(postID: "", userID: "", username: "Emanuele Villani", caption: "This is a caption", dateCreate: Date(), likeCount: 0, likedByUser: false)
         
-        let post2 = PostModel(postID: "", userID: "", username: "Carlo Matroiani", caption:nil, dateCreate: Date(), likeCount: 0, likedByUser: false)
+        let post2 = PostModel(postID: "", userID: "", username: "Simaon Le Bon", caption:nil, dateCreate: Date(), likeCount: 0, likedByUser: false)
         
         let post3 = PostModel(postID: "", userID: "", username: "Iron Man", caption: "This is a caption hahahaha", dateCreate: Date(), likeCount: 0, likedByUser: false)
         
-        let post4 = PostModel(postID: "", userID: "", username: "Bat Man", caption: "This is a caption hahahaha", dateCreate: Date(), likeCount: 0, likedByUser: false)
+        let post4 = PostModel(postID: "", userID: "", username: "BatMan", caption: "This is a caption hahahaha", dateCreate: Date(), likeCount: 0, likedByUser: false)
         
         self.dataArray.append(post1)
         self.dataArray.append(post2)
